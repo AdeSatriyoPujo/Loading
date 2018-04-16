@@ -38,7 +38,7 @@ mulai();
   </script>
 <body>
 <fieldset>
-<h1>Tunggu sedanag proses.. </h1>
+<h1>Tunggu sedang proses.. </h1>
 <div id="progressbar">
 </div>
 <div style="display: none;" class="demo-description">
